@@ -1,0 +1,59 @@
+D:\Project\C#\[Projects]\[Project]\Draw_Graph_DGI+.Naima_Shamilievna\Draw_Graph_DGI+.Naima_Shamilievna\bin\Debug\Draw_Graph_DGI+.Naima_Shamilievna.exe.config
+D:\Project\C#\[Projects]\[Project]\Draw_Graph_DGI+.Naima_Shamilievna\Draw_Graph_DGI+.Naima_Shamilievna\bin\Debug\Draw_Graph_DGI+.Naima_Shamilievna.exe
+D:\Project\C#\[Projects]\[Project]\Draw_Graph_DGI+.Naima_Shamilievna\Draw_Graph_DGI+.Naima_Shamilievna\bin\Debug\Draw_Graph_DGI+.Naima_Shamilievna.pdb
+D:\Project\C#\[Projects]\[Project]\Draw_Graph_DGI+.Naima_Shamilievna\Draw_Graph_DGI+.Naima_Shamilievna\obj\Debug\Draw_Graph_DGI_.Naima_Shamilievna.Form1.resources
+D:\Project\C#\[Projects]\[Project]\Draw_Graph_DGI+.Naima_Shamilievna\Draw_Graph_DGI+.Naima_Shamilievna\obj\Debug\Draw_Graph_DGI_.Naima_Shamilievna.Properties.Resources.resources
+D:\Project\C#\[Projects]\[Project]\Draw_Graph_DGI+.Naima_Shamilievna\Draw_Graph_DGI+.Naima_Shamilievna\obj\Debug\Draw_Graph_DGI+.Naima_Shamilievna.csproj.GenerateResource.Cache
+D:\Project\C#\[Projects]\[Project]\Draw_Graph_DGI+.Naima_Shamilievna\Draw_Graph_DGI+.Naima_Shamilievna\obj\Debug\Draw_Graph_DGI+.Naima_Shamilievna.csproj.CoreCompileInputs.cache
+D:\Project\C#\[Projects]\[Project]\Draw_Graph_DGI+.Naima_Shamilievna\Draw_Graph_DGI+.Naima_Shamilievna\obj\Debug\Draw_Graph_DGI+.Naima_Shamilievna.exe
+D:\Project\C#\[Projects]\[Project]\Draw_Graph_DGI+.Naima_Shamilievna\Draw_Graph_DGI+.Naima_Shamilievna\obj\Debug\Draw_Graph_DGI+.Naima_Shamilievna.pdb
+D:\Project\C#\[Projects]\[Project]\Draw_Graph_DGI+.Naima_Shamilievna\Draw_Graph_DGI+.Naima_Shamilievna\obj\Debug\Draw_Graph_DGI+.Naima_Shamilievna.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Draw_Graph_DGI+.Naima_Shamilievna\Draw_Graph_DGI+.Naima_Shamilievna\bin\Debug\Draw_Graph_DGI+.Naima_Shamilievna.exe.config
+C:\Users\student\Desktop\Draw_Graph_DGI+.Naima_Shamilievna\Draw_Graph_DGI+.Naima_Shamilievna\bin\Debug\Draw_Graph_DGI+.Naima_Shamilievna.exe
+C:\Users\student\Desktop\Draw_Graph_DGI+.Naima_Shamilievna\Draw_Graph_DGI+.Naima_Shamilievna\bin\Debug\Draw_Graph_DGI+.Naima_Shamilievna.pdb
+C:\Users\student\Desktop\Draw_Graph_DGI+.Naima_Shamilievna\Draw_Graph_DGI+.Naima_Shamilievna\obj\Debug\Draw_Graph_DGI_.Naima_Shamilievna.Form1.resources
+C:\Users\student\Desktop\Draw_Graph_DGI+.Naima_Shamilievna\Draw_Graph_DGI+.Naima_Shamilievna\obj\Debug\Draw_Graph_DGI_.Naima_Shamilievna.Properties.Resources.resources
+C:\Users\student\Desktop\Draw_Graph_DGI+.Naima_Shamilievna\Draw_Graph_DGI+.Naima_Shamilievna\obj\Debug\Draw_Graph_DGI+.Naima_Shamilievna.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\Draw_Graph_DGI+.Naima_Shamilievna\Draw_Graph_DGI+.Naima_Shamilievna\obj\Debug\Draw_Graph_DGI+.Naima_Shamilievna.exe
+C:\Users\student\Desktop\Draw_Graph_DGI+.Naima_Shamilievna\Draw_Graph_DGI+.Naima_Shamilievna\obj\Debug\Draw_Graph_DGI+.Naima_Shamilievna.pdb
+C:\Users\student\Desktop\Draw_Graph_DGI+.Naima_Shamilievna\Draw_Graph_DGI+.Naima_Shamilievna\obj\Debug\Draw_Graph_DGI+.Naima_Shamilievna.csprojResolveAssemblyReference.cache
+F:\ФИЛЕШКА\Draw_Graph_DGI+.Naima_Shamilievna\Draw_Graph_DGI+.Naima_Shamilievna\bin\Debug\Draw_Graph_DGI+.Naima_Shamilievna.exe.config
+F:\ФИЛЕШКА\Draw_Graph_DGI+.Naima_Shamilievna\Draw_Graph_DGI+.Naima_Shamilievna\bin\Debug\Draw_Graph_DGI+.Naima_Shamilievna.exe
+F:\ФИЛЕШКА\Draw_Graph_DGI+.Naima_Shamilievna\Draw_Graph_DGI+.Naima_Shamilievna\bin\Debug\Draw_Graph_DGI+.Naima_Shamilievna.pdb
+F:\ФИЛЕШКА\Draw_Graph_DGI+.Naima_Shamilievna\Draw_Graph_DGI+.Naima_Shamilievna\obj\Debug\Draw_Graph_DGI_.Naima_Shamilievna.Form1.resources
+F:\ФИЛЕШКА\Draw_Graph_DGI+.Naima_Shamilievna\Draw_Graph_DGI+.Naima_Shamilievna\obj\Debug\Draw_Graph_DGI_.Naima_Shamilievna.Properties.Resources.resources
+F:\ФИЛЕШКА\Draw_Graph_DGI+.Naima_Shamilievna\Draw_Graph_DGI+.Naima_Shamilievna\obj\Debug\Draw_Graph_DGI+.Naima_Shamilievna.csproj.GenerateResource.Cache
+F:\ФИЛЕШКА\Draw_Graph_DGI+.Naima_Shamilievna\Draw_Graph_DGI+.Naima_Shamilievna\obj\Debug\Draw_Graph_DGI+.Naima_Shamilievna.csproj.CoreCompileInputs.cache
+F:\ФИЛЕШКА\Draw_Graph_DGI+.Naima_Shamilievna\Draw_Graph_DGI+.Naima_Shamilievna\obj\Debug\Draw_Graph_DGI+.Naima_Shamilievna.exe
+F:\ФИЛЕШКА\Draw_Graph_DGI+.Naima_Shamilievna\Draw_Graph_DGI+.Naima_Shamilievna\obj\Debug\Draw_Graph_DGI+.Naima_Shamilievna.pdb
+F:\ФИЛЕШКА\Draw_Graph_DGI+.Naima_Shamilievna\Draw_Graph_DGI+.Naima_Shamilievna\obj\Debug\Draw_Graph_DGI+.Naima_Shamilievna.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Новая папка (6)\Draw_Graph_DGI+.Naima_Shamilievna\Draw_Graph_DGI+.Naima_Shamilievna\bin\Debug\Draw_Graph_DGI+.Naima_Shamilievna.exe.config
+C:\Users\student\Desktop\Новая папка (6)\Draw_Graph_DGI+.Naima_Shamilievna\Draw_Graph_DGI+.Naima_Shamilievna\bin\Debug\Draw_Graph_DGI+.Naima_Shamilievna.exe
+C:\Users\student\Desktop\Новая папка (6)\Draw_Graph_DGI+.Naima_Shamilievna\Draw_Graph_DGI+.Naima_Shamilievna\bin\Debug\Draw_Graph_DGI+.Naima_Shamilievna.pdb
+C:\Users\student\Desktop\Новая папка (6)\Draw_Graph_DGI+.Naima_Shamilievna\Draw_Graph_DGI+.Naima_Shamilievna\obj\Debug\Draw_Graph_DGI_.Naima_Shamilievna.Form1.resources
+C:\Users\student\Desktop\Новая папка (6)\Draw_Graph_DGI+.Naima_Shamilievna\Draw_Graph_DGI+.Naima_Shamilievna\obj\Debug\Draw_Graph_DGI_.Naima_Shamilievna.Properties.Resources.resources
+C:\Users\student\Desktop\Новая папка (6)\Draw_Graph_DGI+.Naima_Shamilievna\Draw_Graph_DGI+.Naima_Shamilievna\obj\Debug\Draw_Graph_DGI+.Naima_Shamilievna.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\Новая папка (6)\Draw_Graph_DGI+.Naima_Shamilievna\Draw_Graph_DGI+.Naima_Shamilievna\obj\Debug\Draw_Graph_DGI+.Naima_Shamilievna.exe
+C:\Users\student\Desktop\Новая папка (6)\Draw_Graph_DGI+.Naima_Shamilievna\Draw_Graph_DGI+.Naima_Shamilievna\obj\Debug\Draw_Graph_DGI+.Naima_Shamilievna.pdb
+C:\Users\student\Desktop\Новая папка (6)\Draw_Graph_DGI+.Naima_Shamilievna\Draw_Graph_DGI+.Naima_Shamilievna\obj\Debug\Draw_Graph_DGI+.Naima_Shamilievna.csprojResolveAssemblyReference.cache
+E:\Draw_Graph_DGI+.Naima_Shamilievna\Draw_Graph_DGI+.Naima_Shamilievna\bin\Debug\Draw_Graph_DGI+.Naima_Shamilievna.exe.config
+E:\Draw_Graph_DGI+.Naima_Shamilievna\Draw_Graph_DGI+.Naima_Shamilievna\obj\Debug\Draw_Graph_DGI+.Naima_Shamilievna.exe
+E:\Draw_Graph_DGI+.Naima_Shamilievna\Draw_Graph_DGI+.Naima_Shamilievna\obj\Debug\Draw_Graph_DGI+.Naima_Shamilievna.pdb
+C:\Users\Abraham\Desktop\Draw_Graph_DGI+.Naima_Shamilievna\Draw_Graph_DGI+.Naima_Shamilievna\bin\Debug\Draw_Graph_DGI+.Naima_Shamilievna.exe.config
+C:\Users\Abraham\Desktop\Draw_Graph_DGI+.Naima_Shamilievna\Draw_Graph_DGI+.Naima_Shamilievna\bin\Debug\Draw_Graph_DGI+.Naima_Shamilievna.exe
+C:\Users\Abraham\Desktop\Draw_Graph_DGI+.Naima_Shamilievna\Draw_Graph_DGI+.Naima_Shamilievna\bin\Debug\Draw_Graph_DGI+.Naima_Shamilievna.pdb
+C:\Users\Abraham\Desktop\Draw_Graph_DGI+.Naima_Shamilievna\Draw_Graph_DGI+.Naima_Shamilievna\obj\Debug\Draw_Graph_DGI_.Naima_Shamilievna.Form1.resources
+C:\Users\Abraham\Desktop\Draw_Graph_DGI+.Naima_Shamilievna\Draw_Graph_DGI+.Naima_Shamilievna\obj\Debug\Draw_Graph_DGI_.Naima_Shamilievna.Properties.Resources.resources
+C:\Users\Abraham\Desktop\Draw_Graph_DGI+.Naima_Shamilievna\Draw_Graph_DGI+.Naima_Shamilievna\obj\Debug\Draw_Graph_DGI+.Naima_Shamilievna.csproj.GenerateResource.Cache
+C:\Users\Abraham\Desktop\Draw_Graph_DGI+.Naima_Shamilievna\Draw_Graph_DGI+.Naima_Shamilievna\obj\Debug\Draw_Graph_DGI+.Naima_Shamilievna.csproj.CoreCompileInputs.cache
+C:\Users\Abraham\Desktop\Draw_Graph_DGI+.Naima_Shamilievna\Draw_Graph_DGI+.Naima_Shamilievna\obj\Debug\Draw_Graph_DGI+.Naima_Shamilievna.exe
+C:\Users\Abraham\Desktop\Draw_Graph_DGI+.Naima_Shamilievna\Draw_Graph_DGI+.Naima_Shamilievna\obj\Debug\Draw_Graph_DGI+.Naima_Shamilievna.pdb
+C:\Users\Abraham\Desktop\Draw_Graph_DGI+\Draw_Graph_DGI+.Naima_Shamilievna\bin\Debug\Draw_Graph_DGI+.Naima_Shamilievna.exe.config
+C:\Users\Abraham\Desktop\Draw_Graph_DGI+\Draw_Graph_DGI+.Naima_Shamilievna\bin\Debug\Draw_Graph_DGI+.Naima_Shamilievna.exe
+C:\Users\Abraham\Desktop\Draw_Graph_DGI+\Draw_Graph_DGI+.Naima_Shamilievna\bin\Debug\Draw_Graph_DGI+.Naima_Shamilievna.pdb
+C:\Users\Abraham\Desktop\Draw_Graph_DGI+\Draw_Graph_DGI+.Naima_Shamilievna\obj\Debug\Draw_Graph_DGI_.Naima_Shamilievna.Form1.resources
+C:\Users\Abraham\Desktop\Draw_Graph_DGI+\Draw_Graph_DGI+.Naima_Shamilievna\obj\Debug\Draw_Graph_DGI_.Naima_Shamilievna.Properties.Resources.resources
+C:\Users\Abraham\Desktop\Draw_Graph_DGI+\Draw_Graph_DGI+.Naima_Shamilievna\obj\Debug\Draw_Graph_DGI+.Naima_Shamilievna.csproj.GenerateResource.Cache
+C:\Users\Abraham\Desktop\Draw_Graph_DGI+\Draw_Graph_DGI+.Naima_Shamilievna\obj\Debug\Draw_Graph_DGI+.Naima_Shamilievna.csproj.CoreCompileInputs.cache
+C:\Users\Abraham\Desktop\Draw_Graph_DGI+\Draw_Graph_DGI+.Naima_Shamilievna\obj\Debug\Draw_Graph_DGI+.Naima_Shamilievna.exe
+C:\Users\Abraham\Desktop\Draw_Graph_DGI+\Draw_Graph_DGI+.Naima_Shamilievna\obj\Debug\Draw_Graph_DGI+.Naima_Shamilievna.pdb
